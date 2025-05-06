@@ -26,6 +26,5 @@ Don't hesitate to contact me, I'll be happy to chat and learn more about your pr
 See you soon!  
 
 #### - Contact info -
-
-* Email : [leonie.miege@ecomail.fr](mailto:leonie.miege@ecomail.fr)
-* Linkedin : [Léonie Miège](https://www.linkedin.com/in/leonie-miege-webdev-for-social-impact/)
+[![leonie.miege@ecomail.fr](https://img.shields.io/badge/-Email-2E8B57?style=flat&logo=Mail.Ru&logoColor=white)](mailto:leonie.miege@ecomail.fr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonie-miege-webdev-for-social-impact/)
