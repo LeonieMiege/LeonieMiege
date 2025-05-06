@@ -14,7 +14,7 @@ Currently training as a **Full Stack Web Developer** at [**Ada Tech Schoo**l](ht
 * **Frameworks** : `Vue.js` `Laravel` `Django` `Tailwind CSS`  
 * **Database management** : `SQL` `PostgreSQL`  
 * **GIS** : `QGIS` `Lizmap` `Leaflet` `PostGIS` `Geoserver` `Subjective Mapping`  
-* **OpenStreetMap** : `JOSM` `iD Editor` `HOT Tasking Manager` `OSMAnd` `StreetComplete`  
+* **OpenStreetMap** : `JOSM` `iD Editor` `HOT Tasking Manager` `OSMAnd` `StreetComplete` `Mapswipe` 
 * **Information management & mobile data collection** : `ODK & Kobo Collect` `Qfield` `Excel`  
 * **Project coordination** : `Agile` `Scrum` `Notion` `Teamwork` `Trello` `Miro` `Klaxoon`  
 
