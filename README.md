@@ -21,4 +21,11 @@ Currently training as a **Full Stack Web Developer** at [**Ada Tech Schoo**l](ht
 #### What I'm looking for
 💬 I want to help shape a sustainable and inclusive digital future, honing my skills as part of a team committed to meaningful tech. I'm currently looking for **a 12 to 24-month apprenticeship** to become an **Applications Developer Designer**, or **a 36-month apprenticeship** to become an **Expert in Software Architecture and Development**.  
 
-Don't hesitate to contact me to discuss your projects!  
+Don't hesitate to contact me, I'll be happy to chat and learn more about your projects!  
+
+See you soon!  
+
+#### Contact info
+
+* Email : [leonie.miege@ecomail.fr](mailto:leonie.miege@ecomail.fr)
+* Linkedin : [Léonie Miège](https://www.linkedin.com/in/leonie-miege-webdev-for-social-impact/)
