@@ -9,9 +9,9 @@ I started out in the **humanitarian sector** where I developed skills in **data 
 Currently training as a **Full Stack Web Developer** at [**Ada Tech Schoo**l](https://adatechschool.fr/), a school known for its inclusive pedagogy that values diversity, teamwork, autonomy and learning by doing, I'm looking to improve my technical skills and contribute to projects that align with my values: social and environmental justice and gender equality.  
 
 #### Stack & Tools
-* **Front** : `Javascript` `HTML` `CSS`  
-* **Back** : `PHP` `Python`  
-* **Frameworks** : `Vue.js` `Laravel` `Django` `Tailwind CSS`  
+* **Front** : `Javascript` `TypeScript`  `HTML` `CSS`  
+* **Back** : `Python` `Java`  
+* **Frameworks** : `Vue.js` `Django` `Tailwind CSS`  
 * **Dev Tools** : `Git` `Github` `Gitlab`
 * **Database management** : `SQL` `PostgreSQL`  
 * **GIS** : `QGIS` `Lizmap` `Leaflet` `PostGIS` `Geoserver` `Subjective Mapping`  
