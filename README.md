@@ -10,8 +10,8 @@ Currently training as a **Full Stack Web Developer** at [**Ada Tech Schoo**l](ht
 
 #### Stack & Tools
 * **Front** : `Javascript` `TypeScript`  `HTML` `CSS`  
-* **Back** : `Python` `Java`  
-* **Frameworks** : `Vue.js` `Django` `Tailwind CSS`  
+* **Back** : `Python` `PHP`  
+* **Frameworks** : `Vue.js` `Django` `Tailwind CSS` `Symfony`  
 * **Dev Tools** : `Git` `Github` `Gitlab`
 * **Database management** : `SQL` `PostgreSQL`  
 * **GIS** : `QGIS` `Lizmap` `Leaflet` `PostGIS` `Geoserver` `Subjective Mapping`  
