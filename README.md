@@ -10,7 +10,7 @@ Currently training as a **Full Stack Web Developer** at [**Ada Tech Schoo**l](ht
 
 #### Stack & Tools
 * **Front** : `Javascript` `TypeScript`  `HTML` `CSS`  
-* **Back** : `Python` `PHP`  
+* **Back** : `Python` `PHP` `Go`
 * **Frameworks** : `Vue.js` `Django` `Tailwind CSS` `Laravel`  
 * **Dev Tools** : `Git` `Github` `Gitlab`
 * **Database management** : `SQL` `PostgreSQL`  
