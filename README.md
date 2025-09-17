@@ -11,13 +11,13 @@ Currently training as a **Full Stack Web Developer** at [**Ada Tech Schoo**l](ht
 #### Stack & Tools
 * **Front** : `Javascript` `TypeScript`  `HTML` `CSS`  
 * **Back** : `Python` `PHP`  
-* **Frameworks** : `Vue.js` `Django` `Flask` `Tailwind CSS` `Symfony`  
+* **Frameworks** : `Vue.js` `Django` `Tailwind CSS` `Laravel`  
 * **Dev Tools** : `Git` `Github` `Gitlab`
 * **Database management** : `SQL` `PostgreSQL`  
 * **GIS** : `QGIS` `Lizmap` `Leaflet` `PostGIS` `Geoserver` `Subjective Mapping`  
 * **OpenStreetMap** : `JOSM` `iD Editor` `HOT Tasking Manager` `OSMAnd` `StreetComplete`  
-* **Information management & mobile data collection** : `ODK Collect` `Kobo Collect` `Qfield` `Excel`  `XLSForm`
-* **Project coordination** : `Agile` `Scrum` `Notion` `Teamwork` `Trello` `Miro` `Klaxoon`  
+* **Information management & mobile data collection** : `ODK Collect` `Kobo Collect` `Excel`  `XLSForm` `Qfield`
+* **Project coordination** : `Agile` `Scrum` `Notion` `Teamwork` `Trello` `Miro`
 
 #### What I'm looking for
 I want to help shape a sustainable and inclusive digital future, honing my skills as part of a team committed to meaningful tech. I'm currently looking for **a 12 to 24-month apprenticeship** to become an **Applications Developer Designer**, or **a 36-month apprenticeship** to become an **Expert in Software Architecture and Development**.  
