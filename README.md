@@ -1,6 +1,6 @@
 ### ✦ Hi there, I'm Léo ✦
 
-**Junior GIS web developer** with a keen interest in data and technology as tools for social transformation 
+**A junior GIS web developer** with a keen interest in data and technology as tools for social transformation 
 
 #### About me
 
