@@ -12,7 +12,7 @@ Currently training as a **Full Stack Web Developer** at [**Ada Tech Schoo**l](ht
 * **Front** : `Javascript` `TypeScript`  `HTML` `CSS`  
 * **Back** : `Python` `PHP` `Go`
 * **Frameworks** : `Vue.js` `Django` `Tailwind CSS` `Laravel`  
-* **Dev Tools** : `Git` `Github` `Gitlab`
+* **Dev Tools** : `Git` `Github` `Gitlab` `Docker`
 * **Database management** : `SQL` `PostgreSQL`  
 * **GIS** : `QGIS` `Lizmap` `Leaflet` `PostGIS` `Geoserver` `Subjective Mapping`  
 * **OpenStreetMap** : `JOSM` `iD Editor` `HOT Tasking Manager` `OSMAnd` `StreetComplete`  
